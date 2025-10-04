@@ -1,0 +1,2 @@
+# Portafolio-de-Proyectos-An-lisis-de-Datos-y-Ciencia-de-la-Computaci-n
+Este repositorio reúne una colección de proyectos desarrollados para demostrar mis habilidades en análisis de datos, programación en Python y modelado predictivo. Cada proyecto está documentado con claridad, incluye código funcional y refleja mi capacidad para resolver problemas reales mediante herramientas tecnológicas modernas.
